@@ -1,2 +1,10 @@
 # WE GON BE ALRIGHT
-Interactividad, cuerpo y aprendizaje de máquina en arte digital
+Interactividad con el cuerpo de la mano del aprendizaje de máquina en arte digital
+
+WE GON BE ALRIGHT es una obra interactiva de arte digital que fusiona visión computacional, sonido y gráficos en tiempo real para explorar la relación entre el cuerpo humano y la inteligencia artificial en el proceso creativo. Utilizando la webcam y el modelo de aprendizaje automático PoseNet (a través de ml5.js), la pieza detecta en vivo la posición de las muñecas del espectador. Según la ubicación de las manos, se activan diferentes respuestas visuales y sonoras: la mano derecha genera un texto flotante animado (“WE GON BE ALRIGHT”) en la pantalla, mientras que la mano izquierda, al situarse en el cuadrante superior izquierdo, desencadena la aparición de una imagen y el loop de un fragmento musical, ambos asociados a la identidad visual y sonora de la pieza. El entorno visual se construye con p5.js, permitiendo una experiencia inmersiva y personalizada.
+
+Idea y concepto
+El título y los elementos visuales y sonoros remiten a la resiliencia y la esperanza, invitando a reflexionar sobre la capacidad humana de adaptación y sobre cómo la tecnología puede amplificar la creatividad y la emoción. El título, extraído de la cultura musical contemporánea, funciona como mantra visual que subraya la resiliencia creativa frente a la automatización. La dualidad cromática (rojo/azul) y la retroalimentación sonora inmediata construyen una metáfora sobre la simbiosis entre intuición humana y precisión computacional.
+
+Aprendizaje de máquina en el arte digital
+El uso de aprendizaje de máquina, específicamente a través de redes neuronales como PoseNet, ha revolucionado el arte digital al permitir la interpretación y respuesta en tiempo real a los movimientos humanos. El aprendizaje automático no solo reproduce estilos o técnicas, sino que posibilita la creación de obras que evolucionan con la participación del público, desdibujando los límites entre autor, espectador y máquina. El modelo demuestra cómo las redes neuronales, más que sustituir al artista, pueden funcionar como extensiones tecnológicas del cuerpo, amplificando la capacidad de expresión y creando nuevos lenguajes híbridos. 
